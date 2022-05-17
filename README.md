@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Galal</h1>
 <h3 align="center">I am a Senior student at system and Biomedical Engineering Department.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
